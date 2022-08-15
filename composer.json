@@ -1,0 +1,11 @@
+{
+    "require": {
+        "squizlabs/php_codesniffer": "^3.7"
+    },
+    "autoload": {
+      "psr-4": {
+        "Broker\\":"app/src/",
+        "App\\Models\\":"app/models"
+      }
+    }
+}
