@@ -6,8 +6,6 @@
 */
 namespace Broker\Libs;
 
-// use Broker\Models\Transaction;
-
 //Load the model and the view
 class Controller {
     public function model($model) {
